@@ -1,4 +1,8 @@
-/public
 _gen
-node_modules
 .DS_STORE
+/.hugo_build.lock
+/assets/jsconfig.json
+/public/
+/resources/_gen/
+hugo_stats.json
+node_modules
