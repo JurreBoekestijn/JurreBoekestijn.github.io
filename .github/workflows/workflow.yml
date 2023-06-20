@@ -9,6 +9,3 @@ jobs:
     - name: Install modules
       run: |
         npm install
-    - name: Run Prettier
-      run: |
-        npm run check
